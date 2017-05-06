@@ -14,9 +14,9 @@ https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-practice-prob
 
 # Contents
 
-[Find pair with given sum in the array](find-pair)
-[Print all sub-array with 0 sum](zero-subarray)
-[Sort binary array in linear time](sort-array)
-[Find a duplicate element in a limited range array](find-duplicate)
-[Find largest number possible from set of given numbers](largest-number)
-[Inversion count of an array](inversion-count)
+* [Find pair with given sum in the array](find-pair)
+* [Print all sub-array with 0 sum](zero-subarray)
+* [Sort binary array in linear time](sort-array)
+* [Find a duplicate element in a limited range array](find-duplicate)
+* [Find largest number possible from set of given numbers](largest-number)
+* [Inversion count of an array](inversion-count)
