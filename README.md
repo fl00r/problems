@@ -14,5 +14,8 @@ https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-practice-prob
 
 # Contents
 
-1. [Find pair with given sum in the array](pair)
-2. [Print all sub-array with 0 sum](zero-subarray)
+[Find pair with given sum in the array](find-pair)
+[Print all sub-array with 0 sum](zero-subarray)
+[Sort binary array in linear time](sort-array)
+[Find a duplicate element in a limited range array](find-duplicate)
+[Inversion count of an array](inversion-count)
