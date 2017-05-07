@@ -15,16 +15,16 @@ def permutations(data, r):
 
 def tricky_combinations(n):
   res = []
-  data = list(range(1, 2*n+1))
+  data = list(range(2*n))
   for permutation in permutations(data, n):
     inter = [None] * 2 * n
     for i, m in enumerate(permutation):
       m_ = m + i + 2
-      if m_ > 2 * n or inter[m_ - 1] or inter[m - 1]:
+      if m_ >= 2 * n or inter[m_] or inter[m]:
         inter = None
         break
-      inter[m - 1] = i + 1
-      inter[m_ - 1] = i + 1
+      inter[m] = i + 1
+      inter[m_] = i + 1
     if inter:
       res.append(inter)
   return res
