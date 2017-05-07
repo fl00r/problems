@@ -4,8 +4,6 @@
 # O(nlogn)
 #
 
-# def inversion_count(data):
-
 def merge(left, right):
   res = []
   inversions = []
