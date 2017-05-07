@@ -20,4 +20,4 @@ https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-practice-prob
 * [Find a duplicate element in a limited range array](find-duplicate)
 * [Find largest number possible from set of given numbers](largest-number)
 * [Inversion count of an array](inversion-count)
-* [All combinations of elements satisfying given constraints](tricky-compinations)
+* [All combinations of elements satisfying given constraints](tricky-combinations)
