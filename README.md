@@ -2,6 +2,10 @@
 
 https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-practice-problems-and-their-solutions
 
+## TODO
+
+Automatic testing
+
 ## Running
 
 ### Clojure
@@ -21,3 +25,4 @@ https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-practice-prob
 * [Find largest number possible from set of given numbers](largest-number)
 * [Inversion count of an array](inversion-count)
 * [All combinations of elements satisfying given constraints](tricky-combinations)
+* [Combinations of words formed by replacing given numbers with corresponding alphabets](words-combinations)
