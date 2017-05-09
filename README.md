@@ -27,5 +27,6 @@ Automatic testing
 * [All combinations of elements satisfying given constraints](tricky-combinations)
 * [Combinations of words formed by replacing given numbers with corresponding alphabets](words-combinations)
 * [Evaluate expression](evaluate-expression)
+* [Coin Change Problem](change-coin)
 * [Check if two binary trees are identical or not](equal-trees)
 * [Print left view of binary tree](left-view)
