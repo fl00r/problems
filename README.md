@@ -26,3 +26,4 @@ Automatic testing
 * [Inversion count of an array](inversion-count)
 * [All combinations of elements satisfying given constraints](tricky-combinations)
 * [Combinations of words formed by replacing given numbers with corresponding alphabets](words-combinations)
+* [Evaluate expression](evaluate-expression)
