@@ -28,3 +28,4 @@ Automatic testing
 * [Combinations of words formed by replacing given numbers with corresponding alphabets](words-combinations)
 * [Evaluate expression](evaluate-expression)
 * [Check if two binary trees are identical or not](equal-trees)
+* [Print left view of binary tree](left-view)

@@ -6,6 +6,10 @@ def is_equal_trees(root1, root2):
   else:
     return False
 
+#
+# TESTS
+#
+
 class BinaryTreeNode:
   def __init__(self, value):
     self.value = value
